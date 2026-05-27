@@ -1,12 +1,12 @@
 
 window._addDOMListener = function(cb, opts) {
   if (document.readyState === 'complete' || document.readyState === 'interactive') setTimeout(cb, 0);
-  else window._addDOMListener( cb, opts);
+  else document.addEventListener('DOMContentLoaded', cb, opts);
 };
 
 window._addLoadListener = function(cb, opts) {
   if (document.readyState === 'complete') setTimeout(cb, 0);
-  else window._addLoadListener( cb, opts);
+  else window.addEventListener('load', cb, opts);
 };
 (function () {
   const browserLang = (navigator.language || navigator.userLanguage || 'en').toLowerCase();
