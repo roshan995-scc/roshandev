@@ -397,7 +397,7 @@ export default function Home() {
   </div>
 
     
-      <Script src="/js/bundle-index.js" strategy="afterInteractive" />
+      <Script src="/js/bundle-index.js?v=2" strategy="afterInteractive" />
     </>
   );
 }

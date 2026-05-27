@@ -112,7 +112,7 @@ export default function Page() {
   
 
       
-      <Script src="/js/bundle-info.js" strategy="afterInteractive" />
+      <Script src="/js/bundle-info.js?v=2" strategy="afterInteractive" />
     </>
   );
 }

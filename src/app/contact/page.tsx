@@ -90,7 +90,7 @@ export default function Page() {
   
 
       
-      <Script src="/js/bundle-contact.js" strategy="afterInteractive" />
+      <Script src="/js/bundle-contact.js?v=2" strategy="afterInteractive" />
     </>
   );
 }

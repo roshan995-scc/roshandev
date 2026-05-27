@@ -49,7 +49,7 @@ export default function Page() {
   
 
       
-      <Script src="/js/bundle-works.js" strategy="afterInteractive" />
+      <Script src="/js/bundle-works.js?v=2" strategy="afterInteractive" />
     </>
   );
 }
