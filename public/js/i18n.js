@@ -28,7 +28,7 @@
     'index.about.sub': "My name is Luke. A passionate creator and computer science student in Vannes, I build memorable digital experiences, always seeking the symbiosis between art and information.",
     'index.cg.phrase': "Each project is a chance to <span class=\"other-accent\">learn</span>, <span class=\"other-accent\">experiment</span> and push my limits.",
     'index.skills.subtitle': 'Skills',
-    'index.skills.text': 'Computer Science student in Vannes, specialized in cybersecurity, passionate about web development and design.',
+    'index.skills.text': 'Computer Science and Engineering student, passionate about web development and design.',
     'index.skills.frontend': 'Frontend',
     'index.skills.animation': 'Animation & 3D',
     'index.skills.backend': 'Backend',

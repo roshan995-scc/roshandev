@@ -25,7 +25,7 @@ export default function Page() {
 
     <section className="info-left">
       <div className="info-photo-wrap">
-        <img className="info-photo" src="assets/images/profile/me.jpg" alt="Roshan Sha" decoding="async" />
+        <img className="info-photo" src="/assets/images/profile/me.jpg" alt="Roshan Sha" decoding="async" />
         <span className="frame-corner tl"></span>
         <span className="frame-corner tr"></span>
         <span className="frame-corner bl"></span>

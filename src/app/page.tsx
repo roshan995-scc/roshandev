@@ -33,7 +33,7 @@ export default function Home() {
 
     
     <section className="hero" id="hero">
-      <h1 className="sr-only" >Roshan Sha — Creative Developer, IT Student, specializing in web development, animation, and interactive design.</h1>
+      <h1 className="sr-only" >Roshan Sha — Creative Developer, Computer Science and Engineering student, specializing in web development, animation, and interactive design.</h1>
       <div className="hero-canvas" id="hero-canvas"></div>
 
       <div className="hero-content">
@@ -83,7 +83,7 @@ export default function Home() {
         blending technical precision with <span className="other-accent">emotion</span>.
       </div>
       <div className="about-sub" id="about-sub" >
-        My name is Roshan. I am a passionate creative developer and IT student.
+        My name is Roshan. I am a passionate creative developer and Computer Science and Engineering student.
         I craft memorable digital experiences, always looking for a symbiosis between art and information.
       </div>
       <div className="about-btn">
@@ -93,7 +93,7 @@ export default function Home() {
   <path d="M11 38H54L37 21H51L73 43L51 65H37L54 48H11Z"/>
 </svg>V3.0</div>
       <div className="about-photo-wrap" id="about-photo-wrap">
-        <img className="about-photo" src="assets/images/profile/me.jpg" alt="Roshan Sha" decoding="async" width="2500"
+        <img className="about-photo" src="/assets/images/profile/me.jpg" alt="Roshan Sha" decoding="async" width="2500"
           height="3001" />
       </div>
     </div>
@@ -110,21 +110,21 @@ export default function Home() {
       </svg>
       <div className="projects-inner">
         <div className="projects-list" id="projects-list">
-          <div className="proj-item" data-id="cyberdiag" data-img="assets/images/projects/Covers/cyberDiag_web.avif"
+          <div className="proj-item" data-id="cyberdiag" data-img="/assets/images/projects/Covers/cyberDiag_web.avif"
             data-date="01 2025">CyberDiag website</div>
-          <div className="proj-item" data-id="anima" data-img="assets/images/projects/Covers/Anima.avif"
+          <div className="proj-item" data-id="anima" data-img="/assets/images/projects/Covers/Anima.avif"
             data-date="06 2025">Anima</div>
-          <div className="proj-item" data-id="cyberdiag-app" data-img="assets/images/projects/Covers/CyberDiag.avif"
+          <div className="proj-item" data-id="cyberdiag-app" data-img="/assets/images/projects/Covers/CyberDiag.avif"
             data-date="09 2025">CyberDiag app</div>
-          <div className="proj-item" data-id="zenith" data-img="assets/images/projects/Covers/Zenith.avif"
+          <div className="proj-item" data-id="zenith" data-img="/assets/images/projects/Covers/Zenith.avif"
             data-date="11 2025">Zenith</div>
-          <div className="proj-item" data-id="skymcdb" data-img="assets/images/projects/Covers/SkymcDB.avif"
+          <div className="proj-item" data-id="skymcdb" data-img="/assets/images/projects/Covers/SkymcDB.avif"
             data-date="02 2026">SkymcDB</div>
-          <div className="proj-item" data-id="chromablock" data-img="assets/images/projects/Covers/ChromaBlock.avif"
+          <div className="proj-item" data-id="chromablock" data-img="/assets/images/projects/Covers/ChromaBlock.avif"
             data-date="03 2026">ChromaBlock</div>
-          <div className="proj-item" data-id="symphony" data-img="assets/images/projects/Covers/Symphony.avif"
+          <div className="proj-item" data-id="symphony" data-img="/assets/images/projects/Covers/Symphony.avif"
             data-date="03 2026">Symphony</div>
-          <div className="proj-item" data-id="echo" data-img="assets/images/projects/Covers/Echo.avif" data-date="03 2026">
+          <div className="proj-item" data-id="echo" data-img="/assets/images/projects/Covers/Echo.avif" data-date="03 2026">
             Echo</div>
         </div>
       </div>
@@ -134,14 +134,14 @@ export default function Home() {
   
   <section className="circle-gallery" id="circle-gallery">
     <div className="circle-gallery-pin" id="circle-gallery-pin">
-      <img className="cg-img" src="assets/images/projects/Covers/cyberDiag_web.avif" alt="CyberDiag — website" width="3000" height="2250" />
-      <img className="cg-img" src="assets/images/projects/Covers/Anima.avif" alt="Anima — animal rights website" width="3000" height="2250" />
-      <img className="cg-img" src="assets/images/projects/Covers/CyberDiag.avif" alt="CyberDiag — desktop cybersecurity app" width="1333" height="1000" />
-      <img className="cg-img" src="assets/images/projects/Covers/Zenith.avif" alt="Zenith — web browser" width="2667" height="2000" />
-      <img className="cg-img" src="assets/images/projects/Covers/SkymcDB.avif" alt="SkymcDB — tool for Minecraft builders" width="2667" height="2000" />
-      <img className="cg-img" src="assets/images/projects/Covers/ChromaBlock.avif" alt="ChromaBlock — web version of SkymcDB" width="2667" height="2000" />
-      <img className="cg-img" src="assets/images/projects/Covers/Symphony.avif" alt="Symphony — music web application" width="2667" height="2000" />
-      <img className="cg-img" src="assets/images/projects/Covers/Echo.avif" alt="Echo — local conversational AI interface" width="2667" height="2000" />
+      <img className="cg-img" src="/assets/images/projects/Covers/cyberDiag_web.avif" alt="CyberDiag — website" width="3000" height="2250" />
+      <img className="cg-img" src="/assets/images/projects/Covers/Anima.avif" alt="Anima — animal rights website" width="3000" height="2250" />
+      <img className="cg-img" src="/assets/images/projects/Covers/CyberDiag.avif" alt="CyberDiag — desktop cybersecurity app" width="1333" height="1000" />
+      <img className="cg-img" src="/assets/images/projects/Covers/Zenith.avif" alt="Zenith — web browser" width="2667" height="2000" />
+      <img className="cg-img" src="/assets/images/projects/Covers/SkymcDB.avif" alt="SkymcDB — tool for Minecraft builders" width="2667" height="2000" />
+      <img className="cg-img" src="/assets/images/projects/Covers/ChromaBlock.avif" alt="ChromaBlock — web version of SkymcDB" width="2667" height="2000" />
+      <img className="cg-img" src="/assets/images/projects/Covers/Symphony.avif" alt="Symphony — music web application" width="2667" height="2000" />
+      <img className="cg-img" src="/assets/images/projects/Covers/Echo.avif" alt="Echo — local conversational AI interface" width="2667" height="2000" />
       <p className="cg-phrase" id="cg-phrase" >Each project is an opportunity to <span className="other-accent">learn</span>,
         <span className="other-accent">experiment</span>, and push my boundaries.</p>
     </div>
@@ -153,7 +153,7 @@ export default function Home() {
       <div className="skills-left">
         <div className="skills-subtitle" >Skills</div>
         <div className="skills-text" >
-          IT Student specializing in cybersecurity, passionate about web development and design.
+          Computer Science and Engineering student, passionate about web development and design.
         </div>
         <div className="skills-separator"></div>
         <div><a className="skills-contact chr-hover" data-chr="Contact me🞣" href="contact/"
@@ -280,7 +280,7 @@ export default function Home() {
       </div>
 
       <div className="contact-frame" id="contact-frame">
-        <img className="contact-frame-img" id="contact-frame-img" src="assets/images/art/Untitled2.png" alt=""
+        <img className="contact-frame-img" id="contact-frame-img" src="/assets/images/art/Untitled2.png" alt=""
           loading="lazy" decoding="async" />
         <span className="frame-corner tl"></span>
         <span className="frame-corner tr"></span>
@@ -294,7 +294,7 @@ export default function Home() {
       </div>
 
       <div className="contact-frame" id="contact-frame-2">
-        <img className="contact-frame-img" id="contact-frame-img-2" src="assets/images/art/Untitled1.png" alt=""
+        <img className="contact-frame-img" id="contact-frame-img-2" src="/assets/images/art/Untitled1.png" alt=""
           loading="lazy" decoding="async" />
         <span className="frame-corner tl"></span>
         <span className="frame-corner tr"></span>
@@ -354,10 +354,10 @@ export default function Home() {
         <span className="proj-date" id="proj-date">01 2025</span>
         <span className="proj-label">Preview</span>
       </div>
-      <img id="proj-cover" src="assets/images/projects/Covers/CyberDiag.avif" alt="" width="1333" height="1000" />
+      <img id="proj-cover" src="/assets/images/projects/Covers/CyberDiag.avif" alt="" width="1333" height="1000" />
     </div>
   </div>
-  <div className="proj-cursor" id="proj-cursor">See project</div>
+  <div className="proj-cursor" id="proj-cursor">Coming Soon</div>
 
   <div className="page-fade" id="page-fade"></div>
   <div className="flying-title" id="flying-title"></div>

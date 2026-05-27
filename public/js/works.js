@@ -6,7 +6,7 @@
       { 
         id: 'cyberdiag', 
         title: 'CyberDiag Website', 
-        desc: "Showcase website for the CyberDiag app, presenting its features and benefits, and offering download for easy access.", 
+        desc: "Coming Soon! (Projects displayed temporarily for aesthetics)", 
         category: 'Website', 
         year: '2026', 
         tags: ['Gsap', 'Lenis', 'Three.js'], 
@@ -15,7 +15,7 @@
       { 
         id: 'anima', 
         title: 'Anima', 
-        desc: "Website about animal rights, created to practice web animations with tools like GSAP and Lenis.", 
+        desc: "Coming Soon! (Projects displayed temporarily for aesthetics)", 
         category: 'Website', 
         year: '2026', 
         tags: ['Gsap', 'Lenis'], 
@@ -24,7 +24,7 @@
       { 
         id: 'cyberdiag-app', 
         title: 'CyberDiag App', 
-        desc: "Desktop application designed for SMEs to perform comprehensive cybersecurity diagnostics. Intuitive interface to assess vulnerabilities and provide tailored recommendations.", 
+        desc: "Coming Soon! (Projects displayed temporarily for aesthetics)", 
         category: 'Desktop App', 
         year: '2026', 
         tags: ['Python', 'Gsap', 'Three.js'], 
@@ -33,7 +33,7 @@
       { 
         id: 'zenith', 
         title: 'Zenith', 
-        desc: "Innovative web browser focused on privacy and performance, featuring a built-in ad blocker, optimized tab management, and extensive customization.", 
+        desc: "Coming Soon! (Projects displayed temporarily for aesthetics)", 
         category: 'Desktop App', 
         year: '2026', 
         tags: ['Electron', 'JavaScript', 'Three.js'], 
@@ -42,7 +42,7 @@
       { 
         id: 'portfolio', 
         title: 'Portfolio', 
-        desc: "Personal website showcasing my projects, skills, and experience in web development. Designed with a strong focus on aesthetics and user experience.", 
+        desc: "Coming Soon! (Projects displayed temporarily for aesthetics)", 
         category: 'Website', 
         year: '2026', 
         tags: ['NextJS', 'GSAP', 'Three.js'], 
@@ -51,7 +51,7 @@
       { 
         id: 'skymcdb', 
         title: 'SkymcDB', 
-        desc: "A powerful and intuitive tool designed to manage, organize, and optimize your Minecraft building projects, developed specifically for builders.", 
+        desc: "Coming Soon! (Projects displayed temporarily for aesthetics)", 
         category: 'Desktop App', 
         year: '2024', 
         tags: ['Java', 'JavaFX', 'CSS'], 
@@ -60,7 +60,7 @@
       { 
         id: 'chromablock', 
         title: 'ChromaBlock', 
-        desc: "Web adaptation of SkymcDB to reach a wider audience, introducing brand new features for Minecraft builders.", 
+        desc: "Coming Soon! (Projects displayed temporarily for aesthetics)", 
         category: 'Web Application', 
         year: '2024', 
         tags: ['JavaScript', 'HTML', 'CSS'], 
@@ -69,7 +69,7 @@
       { 
         id: 'symphony', 
         title: 'Symphony', 
-        desc: "Web application allowing users to host and stream their music, as well as discover music published by others on the platform.", 
+        desc: "Coming Soon! (Projects displayed temporarily for aesthetics)", 
         category: 'Web Application', 
         year: '2024', 
         tags: ['Netlify Functions', 'JavaScript', 'HTML/CSS'], 
@@ -78,7 +78,7 @@
       { 
         id: 'echo', 
         title: 'Echo', 
-        desc: "Web interface to interact and chat with a local Artificial Intelligence (Qwen). Smooth and private conversational experience.", 
+        desc: "Coming Soon! (Projects displayed temporarily for aesthetics)", 
         category: 'AI / Web', 
         year: '2024', 
         tags: ['JavaScript', 'HTML/CSS', 'AI Local'], 

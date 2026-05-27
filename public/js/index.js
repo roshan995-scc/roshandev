@@ -1873,42 +1873,42 @@ function setupProjectsSection() {
 
   const PROJECTS = {
     'cyberdiag': {
-      desc: "Showcase website for the CyberDiag app, presenting its features and benefits, and offering download for easy access.",
+      desc: "Coming Soon! (Projects displayed temporarily for aesthetics)",
       category: 'Website', year: '2026', tags: ['Gsap', 'Lenis', 'Three.js'],
       images: ['assets/images/projects/CyberDiagWebsite/image1.png', 'assets/images/projects/CyberDiagWebsite/image2.png', 'assets/images/projects/CyberDiagWebsite/image3.png'],
     },
     'anima': {
-      desc: "Website about animal rights, created to practice web animations with tools like GSAP and Lenis.",
+      desc: "Coming Soon! (Projects displayed temporarily for aesthetics)",
       category: 'Website', year: '2026', tags: ['Gsap', 'Lenis'],
       images: ['assets/images/projects/Anima/image1.png', 'assets/images/projects/Anima/image2.png', 'assets/images/projects/Anima/image3.png'],
     },
     'cyberdiag-app': {
-      desc: "Desktop application designed for SMEs to perform comprehensive cybersecurity diagnostics. Intuitive interface to assess vulnerabilities and provide tailored recommendations.",
+      desc: "Coming Soon! (Projects displayed temporarily for aesthetics)",
       category: 'Desktop App', year: '2026', tags: ['Python', 'Gsap', 'Three.js'],
       images: ['assets/images/projects/cyberdiag/image1.png', 'assets/images/projects/cyberdiag/image2.png', 'assets/images/projects/cyberdiag/image3.png'],
     },
     'zenith': {
-      desc: "Innovative web browser focused on privacy and performance, featuring a built-in ad blocker, optimized tab management, and extensive customization.",
+      desc: "Coming Soon! (Projects displayed temporarily for aesthetics)",
       category: 'Desktop App', year: '2026', tags: ['Electron', 'JavaScript', 'Three.js'],
       images: ['assets/images/projects/Zenith/image1.png', 'assets/images/projects/Zenith/image2.png', 'assets/images/projects/Zenith/image3.png'],
     },
     'skymcdb': {
-      desc: "A powerful and intuitive tool designed to manage, organize, and optimize your Minecraft building projects, developed specifically for builders.",
+      desc: "Coming Soon! (Projects displayed temporarily for aesthetics)",
       category: 'Desktop App', year: '2024', tags: ['Java', 'JavaFX', 'CSS'],
       images: ['assets/images/projects/skymcdb/image.png', 'assets/images/projects/skymcdb/image2.png', 'assets/images/projects/skymcdb/image3.png', 'assets/images/projects/skymcdb/image4.png'],
     },
     'chromablock': {
-      desc: "Web adaptation of SkymcDB to reach a wider audience, introducing brand new features for Minecraft builders.",
+      desc: "Coming Soon! (Projects displayed temporarily for aesthetics)",
       category: 'Web Application', year: '2024', tags: ['JavaScript', 'HTML', 'CSS'],
       images: ['assets/images/projects/chromablock/image1.png', 'assets/images/projects/chromablock/image2.png', 'assets/images/projects/chromablock/image3.png'],
     },
     'symphony': {
-      desc: "Web application allowing users to host and stream their music, as well as discover music published by others on the platform.",
+      desc: "Coming Soon! (Projects displayed temporarily for aesthetics)",
       category: 'Web Application', year: '2024', tags: ['Netlify Functions', 'JavaScript', 'HTML/CSS'],
       images: ['assets/images/projects/symphony/image2.png', 'assets/images/projects/symphony/image.png', 'assets/images/projects/symphony/image3.png'],
     },
     'echo': {
-      desc: "Web interface to interact and chat with a local Artificial Intelligence (Qwen). Smooth and private conversational experience.",
+      desc: "Coming Soon! (Projects displayed temporarily for aesthetics)",
       category: 'AI / Web', year: '2024', tags: ['JavaScript', 'HTML/CSS', 'AI Local'],
       images: ['assets/images/projects/echo/image.png'],
     },
